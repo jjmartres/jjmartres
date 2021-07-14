@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [jjmartres.github.io](jjmartres.github.io)
 
-- ⚡ Fun fact **I love automation, strip cartoon and gunpla**
+- ⚡ Fun fact **I love coding, automation, strip cartoon and gunpla**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
