@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jjmartres@gmail.com**
 
-- 📄 Know about my experiences [jjmartres.github.io](https://jjmartres.github.io/jjmartres/resume.pdf)
+- 📄 Know about my experiences [jjmartres.github.io](https://jjmartres.github.io/jjmartres/resume.pdf){:target="_blank" rel="noopener"}
 
 - ⚡ Fun fact **I love coding, automation, strip cartoon and gunpla**
 
