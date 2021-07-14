@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jjmartres" alt="jjmartres" /></a> </p>
 
+- 👨‍💻 Currently working at [anasen.com](anasen.com), a powerful data platform to create data apps
+
 - 💬 Ask me about **all DevOps, Azure, GCP, Kubernetes, Helm, Spinnaker, Docker, Terraform**
 
 - 📫 How to reach me **jjmartres@gmail.com**
