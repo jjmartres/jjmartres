@@ -17,38 +17,51 @@ From carrier IP/MPLS networks and datacenters to multi-region Kubernetes platfor
 
 ## 🔭 Now building
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 🧪 farnswrth &nbsp;<sup>`coming soon`</sup>
 
-### farnswrth <sub>`coming soon`</sub>
-The coding agent that knows when to stop and ask. One agent for platform engineering work, built on [Pi](https://pi.dev): one persona, four sub-agents, curated skills and guard-rails enforced in code.
+> _The coding agent that knows when to stop and ask._
 
-</td>
-<td width="50%" valign="top">
+One coding agent for platform engineering work, built on [Pi](https://pi.dev): one persona, four sub-agents, curated skills, and guard-rails enforced in code — infrastructure applies, cluster changes and protected pushes are stopped before they happen.
 
-### [astroagent](https://github.com/jjmartres/astroagent)
-AI agent skills that turn imaging sessions into finished astrophotos in PixInsight — stacking, palettes, stretching, finishing — with an approval at every stage. · [website](https://jjmartres.github.io/astroagent/)
+![Pi](https://img.shields.io/badge/Pi-coding%20agent-6E40C9?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Platform engineering](https://img.shields.io/badge/platform-engineering-555?style=flat-square)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<br>
 
-### [AI Coding Agents](https://github.com/jjmartres/ai-coding-agents)
+### 🌌 [astroagent](https://github.com/jjmartres/astroagent)
+
+> _From raw subs to a finished astrophoto, with an approval at every stage._
+
+AI agent skills that drive PixInsight end to end — sub review, stacking, HOO/SHO palettes, stretching and finishing — and stop for your approval at each step. &nbsp;→ [website](https://jjmartres.github.io/astroagent/)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PixInsight](https://img.shields.io/badge/PixInsight-1F2A44?style=flat-square) ![MCP](https://img.shields.io/badge/MCP-000?style=flat-square)
+
+<br>
+
+### ⚙️ [AI Coding Agents](https://github.com/jjmartres/ai-coding-agents)
+
+> _One configuration, every coding agent._
+
 Single source of truth for AI coding agent configuration — skills, commands and rules shared across OpenCode and Pi, deployed with GNU Stow.
 
-</td>
-<td width="50%" valign="top">
+![Stars](https://img.shields.io/github/stars/jjmartres/ai-coding-agents?style=flat-square&color=yellow) ![OpenCode](https://img.shields.io/badge/OpenCode-222?style=flat-square) ![Pi](https://img.shields.io/badge/Pi-6E40C9?style=flat-square) ![GNU Stow](https://img.shields.io/badge/GNU%20Stow-A42E2B?style=flat-square&logo=gnu&logoColor=white)
 
-### [Nebulis](https://github.com/nebulis-app/nebulis) <sub>`contributor`</sub>
-Self-hosted astrophotography library and observation planner. I work on the sky forecast (two-week ensemble outlook), imaging-site windows and frame-quality analysis.
+<br>
 
-</td>
-</tr>
-</table>
+### 🔭 [Nebulis](https://github.com/nebulis-app/nebulis) &nbsp;<sup>`contributor`</sup>
 
-**Also:** [opencode-cost-guard](https://github.com/jjmartres/opencode-cost-guard) — real-time session cost guard for OpenCode · 🤖 Reachy Mini robotics: [SDK skill](https://github.com/jjmartres/reachy-mini-sdk-skill), [apps](https://github.com/jjmartres/reachy-mini-apps) · [Smartplaylist](https://github.com/jjmartres/smartplaylist) — an MCP server that builds playlists from plain language
+> _A self-hosted library and observation planner for astrophotographers._
+
+I contribute to the sky forecast (two-week outlook from weather-model ensembles), per-site imaging windows and frame-quality analysis.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Self-hosted](https://img.shields.io/badge/self--hosted-2ea44f?style=flat-square&logo=docker&logoColor=white)
+
+<br>
+
+#### ✨ Also
+
+- 💸 [**opencode-cost-guard**](https://github.com/jjmartres/opencode-cost-guard) — real-time session cost guard for OpenCode
+- 🤖 **Reachy Mini robotics** — an [SDK agent skill](https://github.com/jjmartres/reachy-mini-sdk-skill) and a set of [mini-apps](https://github.com/jjmartres/reachy-mini-apps)
+- 🎵 [**Smartplaylist**](https://github.com/jjmartres/smartplaylist) — an MCP server that builds playlists from plain language
 
 ## 🏆 Highlights
 
