@@ -1,6 +1,6 @@
 # Hi 👋, I'm Jean-Jacques Martrès
 
-### Senior Platform, Cloud & AI Engineering Lead — GenAI integration · Kubernetes · DORA
+### Senior Platform, Cloud & AI Engineering Lead — GenAI integration · Kubernetes · Resilience
 
 Platform, cloud and AI engineering leader with **25 years of experience** building reliable, secure and scalable infrastructure — from carrier IP/MPLS networks and datacenters to multi-region Kubernetes platforms and GenAI-driven operations. I like making engineering teams faster and platforms calmer.
 
@@ -10,17 +10,18 @@ Platform, cloud and AI engineering leader with **25 years of experience** buildi
 
 ## 🏆 Highlights
 
-- 🚀 Led a **3-year platform transformation** of a regulated fintech platform: multi-region Kubernetes on Google Cloud, GenAI-driven operational tooling and **DORA compliance**.
-  - **+40%** system reliability, **−60%** operational overhead, **€180k** saved every year
-  - A custom **Kubernetes Operator** replacing Helm charts, cutting deployment complexity by **80%**
-  - A **Vertex AI agent** replacing legacy CLI tooling, opening secure self-service to engineering teams
-  - **FinOps** practices delivering 15% savings on a production payment environment
-- 🧱 Built cloud foundations from scratch on **GCP, AWS and Azure**, moved a Python monolith to microservices, and brought IaC and CI/CD to whole engineering organisations.
-- 📦 Automated virtual appliance and AMI builds for a software-defined storage product, with security compliance checks in the pipeline.
-- 🌐 Earlier career in telecom: national **IP/MPLS and Triple Play** networks, BGP peering, private cloud, VoIP services, and operations across up to **4 datacenters** while leading teams of up to 8 engineers.
+- 🚀 Led a **multi-year platform transformation** in a regulated environment: multi-region Kubernetes, GenAI-driven operational tooling and regulatory compliance.
+  - Significant gains in reliability, lower operational overhead and recurring cost savings
+  - A custom **Kubernetes Operator** replacing Helm charts to simplify deployments
+  - A **GenAI agent** replacing legacy CLI tooling, opening secure self-service to engineering teams
+  - **FinOps** practices to keep cloud spend under control
+- 🧱 Built cloud foundations from scratch on **GCP, AWS and Azure**, moved monoliths to microservices, and brought IaC and CI/CD to whole engineering organisations.
+- 📦 Automated image and appliance builds with security compliance checks in the pipeline.
+- 🌐 Background in networks and infrastructure: **IP/MPLS** networks, BGP peering, private cloud, VoIP services, multi-datacenter operations and technical team leadership.
 
 ## 🔭 What I'm working on
 
+- **farnswrth** _(coming soon)_: _The coding agent that knows when to stop and ask — one coding agent for platform engineering work, built on [Pi](https://pi.dev): one persona, four sub-agents, curated skills and guard-rails enforced in code._
 - **[astroagent](https://github.com/jjmartres/astroagent)**: _AI agent skills for astrophotography — turn Nebulis imaging sessions into finished images in PixInsight (sub review, WBPP stacking, HOO/SHO palettes, stretching, finishing), with an approval at every stage._ ([website](https://jjmartres.github.io/astroagent/))
 - **[Nebulis](https://github.com/nebulis-app/nebulis)** (contributor): _Self-hosted astrophotography library and observation planner — I contribute to the sky forecast (two-week ensemble outlook), imaging-site windows and frame-quality analysis._
 - **[AI Coding Agents](https://github.com/jjmartres/ai-coding-agents)**: _Single source of truth for AI coding agent configuration — skills, commands and rules shared across OpenCode and Pi, deployed with GNU Stow._
@@ -50,7 +51,7 @@ Platform, cloud and AI engineering leader with **25 years of experience** buildi
 | **Observability & security** | OpenTelemetry · Prometheus · Grafana · Datadog · GCP Operations Suite · Elasticsearch · Zabbix · CrowdStrike |
 | **Data** | PostgreSQL · MySQL · Redis · MongoDB · Cloud SQL · Cloud Spanner · BigQuery |
 | **Networking** | MPLS · BGP · OSPF · IPSec · SDN · load balancing · VoIP · NetFlow |
-| **Practices** | SRE · DevSecOps · FinOps · DORA · Scrum · Kanban · Lean · TDD · BDD · DDD |
+| **Practices** | SRE · DevSecOps · FinOps · regulatory compliance · Scrum · Kanban · Lean · TDD · BDD · DDD |
 
 ## 🎓 Certifications & education
 
@@ -65,3 +66,7 @@ Platform, cloud and AI engineering leader with **25 years of experience** buildi
 - 🛠️ My setup lives in my **[dotfiles](https://github.com/jjmartres/dotfiles)** (fish, Herdr workspaces, Brewfile — macOS & Linux).
 
 > ⚡ Fun fact **The Sun produces pressure waves with wavelengths hundreds of miles long - technically sound, but far below human hearing range. We'd need ears capable of detecting ultra-low frequencies to hear it.**
+
+---
+
+<p align="center">🔭 My astrophotography lives on <a href="https://app.astrobin.com/u/jjmartres"><strong>AstroBin</strong></a></p>
