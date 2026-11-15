@@ -59,7 +59,7 @@ Single source of truth for AI coding agent configuration — skills, commands an
 
 <br>
 
-<img src="assets/nebulis.svg" alt="Nebulis logo" width="72" align="left">
+<img src="assets/nebulis.png" alt="Nebulis logo" width="72" align="left">
 
 ### [Nebulis](https://github.com/nebulis-app/nebulis) &nbsp;<sup>`contributor`</sup>
 
