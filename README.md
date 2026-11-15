@@ -19,7 +19,7 @@ From carrier IP/MPLS networks and datacenters to multi-region Kubernetes platfor
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/farnswrth-symbol-dark.svg">
-  <img src="assets/farnswrth-symbol.svg" alt="farnswrth logo" width="96" align="left">
+  <img src="assets/farnswrth-symbol.svg" alt="farnswrth logo" width="72" align="left">
 </picture>
 
 ### farnswrth &nbsp;<sup>`coming soon`</sup>
@@ -35,7 +35,7 @@ One coding agent for platform engineering work, built on [Pi](https://pi.dev): o
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/astroagent-symbol-reversed.svg">
-  <img src="assets/astroagent-symbol.svg" alt="astroagent logo" width="96" align="left">
+  <img src="assets/astroagent-symbol.svg" alt="astroagent logo" width="72" align="left">
 </picture>
 
 ### [astroagent](https://github.com/jjmartres/astroagent)
@@ -59,7 +59,9 @@ Single source of truth for AI coding agent configuration — skills, commands an
 
 <br>
 
-### 🔭 [Nebulis](https://github.com/nebulis-app/nebulis) &nbsp;<sup>`contributor`</sup>
+<img src="assets/nebulis.svg" alt="Nebulis logo" width="72" align="left">
+
+### [Nebulis](https://github.com/nebulis-app/nebulis) &nbsp;<sup>`contributor`</sup>
 
 > _A self-hosted library and observation planner for astrophotographers._
 
@@ -67,6 +69,7 @@ I contribute to the sky forecast (two-week outlook from weather-model ensembles)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Self-hosted](https://img.shields.io/badge/self--hosted-2ea44f?style=flat-square&logo=docker&logoColor=white)
 
+<br clear="left">
 <br>
 
 #### ✨ Also
