@@ -17,7 +17,12 @@ From carrier IP/MPLS networks and datacenters to multi-region Kubernetes platfor
 
 ## 🔭 Now building
 
-### 🧪 farnswrth &nbsp;<sup>`coming soon`</sup>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/farnswrth-symbol-dark.svg">
+  <img src="assets/farnswrth-symbol.svg" alt="farnswrth logo" width="96" align="left">
+</picture>
+
+### farnswrth &nbsp;<sup>`coming soon`</sup>
 
 > _The coding agent that knows when to stop and ask._
 
@@ -25,9 +30,15 @@ One coding agent for platform engineering work, built on [Pi](https://pi.dev): o
 
 ![Pi](https://img.shields.io/badge/Pi-coding%20agent-6E40C9?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Platform engineering](https://img.shields.io/badge/platform-engineering-555?style=flat-square)
 
+<br clear="left">
 <br>
 
-### 🌌 [astroagent](https://github.com/jjmartres/astroagent)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/astroagent-symbol-reversed.svg">
+  <img src="assets/astroagent-symbol.svg" alt="astroagent logo" width="96" align="left">
+</picture>
+
+### [astroagent](https://github.com/jjmartres/astroagent)
 
 > _From raw subs to a finished astrophoto, with an approval at every stage._
 
@@ -35,6 +46,7 @@ AI agent skills that drive PixInsight end to end — sub review, stacking, HOO/S
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PixInsight](https://img.shields.io/badge/PixInsight-1F2A44?style=flat-square) ![MCP](https://img.shields.io/badge/MCP-000?style=flat-square)
 
+<br clear="left">
 <br>
 
 ### ⚙️ [AI Coding Agents](https://github.com/jjmartres/ai-coding-agents)
